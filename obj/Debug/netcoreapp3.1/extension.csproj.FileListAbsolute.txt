@@ -1,0 +1,13 @@
+C:\Users\Murad\source\repos\extension\bin\Debug\netcoreapp3.1\extension.exe
+C:\Users\Murad\source\repos\extension\bin\Debug\netcoreapp3.1\extension.deps.json
+C:\Users\Murad\source\repos\extension\bin\Debug\netcoreapp3.1\extension.runtimeconfig.json
+C:\Users\Murad\source\repos\extension\bin\Debug\netcoreapp3.1\extension.runtimeconfig.dev.json
+C:\Users\Murad\source\repos\extension\bin\Debug\netcoreapp3.1\extension.dll
+C:\Users\Murad\source\repos\extension\bin\Debug\netcoreapp3.1\extension.pdb
+C:\Users\Murad\source\repos\extension\obj\Debug\netcoreapp3.1\extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\source\repos\extension\obj\Debug\netcoreapp3.1\extension.AssemblyInfoInputs.cache
+C:\Users\Murad\source\repos\extension\obj\Debug\netcoreapp3.1\extension.AssemblyInfo.cs
+C:\Users\Murad\source\repos\extension\obj\Debug\netcoreapp3.1\extension.csproj.CoreCompileInputs.cache
+C:\Users\Murad\source\repos\extension\obj\Debug\netcoreapp3.1\extension.dll
+C:\Users\Murad\source\repos\extension\obj\Debug\netcoreapp3.1\extension.pdb
+C:\Users\Murad\source\repos\extension\obj\Debug\netcoreapp3.1\extension.genruntimeconfig.cache
